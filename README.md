@@ -1,7 +1,9 @@
 # NZTOPO50-Atlas-Creator
 
 A QGIS plugin that builds a NZTopo50 A3 atlas for any area and exports it as one
-PDF, using separate layouts for left-hand and right-hand pages.
+PDF, using separate layouts for left-hand and right-hand pages, using the LINZ schema.
+
+The A3 grid is based on the NZTOPO50 grid and split in quarters. Each quarter is named <NZTOPO50 Sheet Index>-NW, SW NE or SE. For example 
 
 <img width="554" height="881" alt="image" src="https://github.com/user-attachments/assets/0ca3b1b8-ffc5-4da2-af44-a55e0781cd2f" />
 
