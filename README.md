@@ -154,7 +154,7 @@ n, s, e, w: `adj_<d>`, `adj_<d>_name`, `adj_<d>_page`, `adj_<d>_label`.
 
 ## What has been tested
 
-Tested headless on QGIS 3.34 (Qt 5):
+Tested headless on QGIS 3.34 (Qt 5) and Windows QGIS 4.22 (Qt 6) GUI
 
 - Page numbering reproduces all 82 existing regional and territorial grid
   files exactly (4,084 pages).
