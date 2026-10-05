@@ -2,7 +2,6 @@
 
 A QGIS plugin that builds a NZTopo50 A3 atlas for any area and exports it as one
 PDF, using separate layouts for left-hand and right-hand pages.
-#
 
 <img width="554" height="881" alt="image" src="https://github.com/user-attachments/assets/0ca3b1b8-ffc5-4da2-af44-a55e0781cd2f" />
 
